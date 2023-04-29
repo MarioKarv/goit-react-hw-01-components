@@ -1,0 +1,41 @@
+.statistics {
+  width: 420px;
+  margin: auto;
+  background-color: whitesmoke;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.title {
+  text-align: center;
+}
+
+.stat_list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.item{
+  width: 84px;
+  height: 84px;
+  border: 1px solid darkgray;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.label{
+  display: block;
+  font-weight: 700;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.percentage{
+  display: block;
+}

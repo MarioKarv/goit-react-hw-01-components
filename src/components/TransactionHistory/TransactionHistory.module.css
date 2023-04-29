@@ -1,0 +1,29 @@
+.transaction_history {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  border: 2px solid black;
+  width: 420px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.headlines_box{
+    padding: 5px;
+  background-color: whitesmoke;
+  
+}
+
+.headlines{
+  padding: 5px;
+  border: 1px solid darkgray;
+  border-radius: 10px;
+}
+
+.content{
+    text-align: center;
+    border: 1px solid darkgray;
+  border-radius: 10px;
+}
